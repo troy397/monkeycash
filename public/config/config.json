@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "SCAN_LINK": "https://bscscan.com/address/0x3c24327078db31e770af8d0a36a0f0749d7625f4",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain Mainnet",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "🐒 The Monkey Cash",
+  "SYMBOL": "MCNFT",
+  "MAX_SUPPLY":4200,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "https://discord.gg/dBKZuRKBSg",
+  "SHOW_BACKGROUND": true
+}
